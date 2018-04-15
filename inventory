@@ -1,0 +1,10 @@
+[master]
+192.168.33.50
+
+[node]
+client1.anixe.pl
+client2.anixe.pl
+
+[kube-cluster:children]
+master
+node

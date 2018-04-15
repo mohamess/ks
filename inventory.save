@@ -1,0 +1,17 @@
+[master]
+192.168.33.50
+
+[node]
+192.16.33.[10:11]
+
+[kube-cluster:children]
+master
+node
+ddddd:q
+
+
+
+
+Q
+
+
